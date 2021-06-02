@@ -17,6 +17,10 @@ line:cekletekaduhaduh
 email:jiwatomo@protonmail.com
 yt:jiwatomo
 
+-Tools used
+Laptop: old hp laptop
+Editor: notepad++ for fast,vscode for more productive
+Browser: Firefox
 
 <!---
 jiwatomo/jiwatomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
