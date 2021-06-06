@@ -17,7 +17,7 @@ line:cekletekaduhaduh<br>
 email:jiwatomo@protonmail.com<br>
 yt:jiwatomo<br>
 
--Tools used<br>
+- Tools used<br>
 Laptop: old hp laptop<br>
 Editor: notepad++ for fast,vscode for more productive<br>
 Browser: Firefox<br>
