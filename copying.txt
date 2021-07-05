@@ -1,0 +1,1 @@
+https://askubuntu.com/questions/381518/recover-from-a-corrupted-filesystem-when-fsck-do-not-help
